@@ -3,12 +3,6 @@
 
 Allows you to use bspwm with GNOME 3 Session infrastructure.
 
-Allows you to use i3wm with GNOME 3 Session infrastructure.
-
-## What do I'll get by installing it?
-- In order to manage GNOME things like your cursor/icon (GTK) themes, online accounts.
-- Is a friendly bridge that keep your stuff from GNOME to have it over i3.
-- Useful for the ones that are getting started with i3wm but doesn't want to uninstall the current desktop environment.
 
 ## Requirements
 * bspwm
